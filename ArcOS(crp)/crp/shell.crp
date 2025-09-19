@@ -1,0 +1,8 @@
+#[stdio]
+fn::main {
+    print("Welcome to CryptonOS!")
+    input("arc:adm# ")
+    loop 3 {
+        print("hello world")
+    }
+}
